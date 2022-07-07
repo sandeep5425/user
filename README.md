@@ -1,2 +1,2 @@
-# user
-Api to fetch users details
+# customerAPI
+An user details  API for shopping app 
